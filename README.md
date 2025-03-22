@@ -23,9 +23,9 @@ I love building web applications and working with databases. Currently, I'm focu
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/karan-kumar-306a27273)
-- Twitter: [Your Twitter](https://twitter.com/karan_k_code)
-- GitHub: [Your GitHub](https://github.com/karan-k-code)
+- LinkedIn: [karan kumar](https://linkedin.com/in/karan-kumar-306a27273)
+- Twitter: [karan_k_code](https://twitter.com/karan_k_code)
+- GitHub: [karan-k-code](https://github.com/karan-k-code)
 
 ## 📊 GitHub Stats
 
