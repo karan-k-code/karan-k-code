@@ -1,6 +1,6 @@
 # Hi there, I'm Karan 👋
 
-<img src="https://github.com/karan-k-code/karan-k-code/blob/main/karan.png" alt="Profile Banner" style="border-radius: 50%; max-width: 200px;">
+<img src="https://github.com/karan-k-code/karan-k-code/blob/main/karan.png" alt="Profile Banner" style="border-radius: 50%; max-width: 100px;">
 
 ## 🚀 About Me
 
