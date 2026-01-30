@@ -10,7 +10,7 @@ I love building web applications and working with databases. Currently, I'm focu
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Google Sheets (CRUD operations)
 - **Tools:** Git, GitHub, Postman, VS Code
@@ -23,7 +23,7 @@ I love building web applications and working with databases. Currently, I'm focu
 
 ## 📫 Connect With Me
 
-- LinkedIn: [karan kumar](https://linkedin.com/in/karan-kumar-306a27273)
+- LinkedIn: [karan kumar](https://linkedin.com/in/karan-k-code)
 - Twitter: [karan_k_code](https://twitter.com/karan_k_code)
 - GitHub: [karan-k-code](https://github.com/karan-k-code)
 
