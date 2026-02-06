@@ -2,5 +2,5 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [karan-k-code](https://linkedin.com/in/karan-k-code)
-- Twitter(x): [karan_k_code](https://x.com/karan_k_code)
+ LinkedIn: [karan-k-code](https://linkedin.com/in/karan-k-code) <br>
+ Twitter(x): [karan_k_code](https://x.com/karan_k_code)
