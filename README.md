@@ -3,4 +3,6 @@
 ### 📫 Connect With Me
 
  LinkedIn: [karan-k-code](https://linkedin.com/in/karan-k-code) <br>
- Twitter(x): [karan_k_code](https://x.com/karan_k_code)
+ Twitter(x): [karan_k_code](https://x.com/karan_k_code) <br>
+ <br>
+ :eyes: ![](https://komarev.com/ghpvc/?username=karan-k-code)
